@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdullah Hosny</h1>
 <h3 align="center">Software Developer | Frontend Developer React js || Next js</h3>
 
+- 👨‍💻 All of my projects are available at [https://portfolio-lovat-psi-72.vercel.app/](https://portfolio-lovat-psi-72.vercel.app/)
+
+- 💬 Ask me about **Ask me about React js and Frontend**
+
+- 📫 How to reach me **abdalluhhosny8@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
